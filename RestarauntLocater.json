@@ -3,42 +3,42 @@
     {
       "RestarauntName": "Backyard Grill",
       "Address": "13999 Metrotech Dr, Chantilly, VA 20151",
-      "RestaurantDetails": "Backyard Grill Restaurant in Chantilly VA serves popular new American lunch and dinner entrees...",
+      "RestarauntDetails": "Backyard Grill Restaurant in Chantilly VA serves popular new American lunch and dinner entrees...",
       "Price": "$$",
       "Review": "4.2 Stars",
       "Spicy": "No",
       "Website": "https://backyardgrillrestaurant.com/",
-      "RestaurantImage": "Backyard Grill.jpeg"
+      "RestarauntImage": "Backyard Grill.jpeg"
     },
     {
       "RestarauntName": "Lazy Dog Restaurant & Bar",
       "Address": "14333 Newbrook Dr, Chantilly, VA 20151",
-      "RestaurantDetails": "Lazy Dog Restaurant & Bar is an American casual dining restaurant chain...",
+      "RestarauntDetails": "Lazy Dog Restaurant & Bar is an American casual dining restaurant chain...",
       "Price": "$$",
       "Review": "4.5 Stars",
       "Spicy": "No",
       "Website": "https://lazydogrestaurants.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
-      "RestaurantImage": "Lazy Dog.jpeg"
+      "RestarauntImage": "Lazy Dog.jpeg"
     },
     {
       "RestarauntName": "The Burger Shack",
       "Address": "13661 Lee Jackson Memorial Hwy, Chantilly, VA 20151",
-      "RestaurantDetails": "On the May 1st, 2016, we opened the doors to our very first restaurant- The Burger Shack in Chantilly...",
+      "RestarauntDetails": "On the May 1st, 2016, we opened the doors to our very first restaurant- The Burger Shack in Chantilly...",
       "Price": "$",
       "Review": "4.5 Stars",
       "Spicy": "Yes",
       "Website": "https://theburgershacks.com/",
-      "RestaurantImage": "Burger Shack.jpeg"
+      "RestarauntImage": "Burger Shack.jpeg"
     },
     {
       "RestarauntName": "Taste of Korea",
       "Address": "13906 Lee Jackson Memorial Hwy, Chantilly, VA 20151",
-      "RestaurantDetails": "We're an authentic Korean restaurant serving traditional Korean foods in Chantilly area...",
+      "RestarauntDetails": "We're an authentic Korean restaurant serving traditional Korean foods in Chantilly area...",
       "Price": "$$",
       "Review": "4.5 Stars",
       "Spicy": "Yes",
       "Website": "https://www.tasteofkoreava.com/",
-      "RestaurantImage": "Taste of Korea.jpeg"
+      "RestarauntImage": "Taste of Korea.jpeg"
     },
   ],
   "Status": "OK"
