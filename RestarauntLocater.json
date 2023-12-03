@@ -1,7 +1,7 @@
 {
   "Restaurants": [
     {
-      "RestaurantName": "Backyard Grill",
+      "RestarauntName": "Backyard Grill",
       "Address": "13999 Metrotech Dr, Chantilly, VA 20151",
       "RestaurantDetails": "Backyard Grill Restaurant in Chantilly VA serves popular new American lunch and dinner entrees...",
       "Price": "$$",
@@ -11,7 +11,7 @@
       "RestaurantImage": "Backyard Grill.jpeg"
     },
     {
-      "RestaurantName": "Lazy Dog Restaurant & Bar",
+      "RestarauntName": "Lazy Dog Restaurant & Bar",
       "Address": "14333 Newbrook Dr, Chantilly, VA 20151",
       "RestaurantDetails": "Lazy Dog Restaurant & Bar is an American casual dining restaurant chain...",
       "Price": "$$",
@@ -21,7 +21,7 @@
       "RestaurantImage": "Lazy Dog.jpeg"
     },
     {
-      "RestaurantName": "The Burger Shack",
+      "RestarauntName": "The Burger Shack",
       "Address": "13661 Lee Jackson Memorial Hwy, Chantilly, VA 20151",
       "RestaurantDetails": "On the May 1st, 2016, we opened the doors to our very first restaurant- The Burger Shack in Chantilly...",
       "Price": "$",
@@ -31,7 +31,7 @@
       "RestaurantImage": "Burger Shack.jpeg"
     },
     {
-      "RestaurantName": "Taste of Korea",
+      "RestarauntName": "Taste of Korea",
       "Address": "13906 Lee Jackson Memorial Hwy, Chantilly, VA 20151",
       "RestaurantDetails": "We're an authentic Korean restaurant serving traditional Korean foods in Chantilly area...",
       "Price": "$$",
