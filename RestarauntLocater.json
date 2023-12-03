@@ -8,7 +8,7 @@
       "Review": "4.2 Stars",
       "Spicy": "No",
       "Website": "https://backyardgrillrestaurant.com/",
-      "RestarauntImage": "Backyard Grill.jpeg"
+      "RestarauntImage": "https://github.com/BJThapa1/IT-315-Final-Project/blob/main/Backyard%20Grill.jpeg"
     },
     {
       "RestarauntName": "Lazy Dog Restaurant & Bar",
@@ -18,7 +18,7 @@
       "Review": "4.5 Stars",
       "Spicy": "No",
       "Website": "https://lazydogrestaurants.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
-      "RestarauntImage": "Lazy Dog.jpeg"
+      "RestarauntImage": "https://github.com/BJThapa1/IT-315-Final-Project/blob/main/Lazy%20Dog.jpeg"
     },
     {
       "RestarauntName": "The Burger Shack",
@@ -28,7 +28,7 @@
       "Review": "4.5 Stars",
       "Spicy": "Yes",
       "Website": "https://theburgershacks.com/",
-      "RestarauntImage": "Burger Shack.jpeg"
+      "RestarauntImage": "https://github.com/BJThapa1/IT-315-Final-Project/blob/main/Burger%20Shack.jpeg"
     },
     {
       "RestarauntName": "Taste of Korea",
@@ -38,7 +38,7 @@
       "Review": "4.5 Stars",
       "Spicy": "Yes",
       "Website": "https://www.tasteofkoreava.com/",
-      "RestarauntImage": "Taste of Korea.jpeg"
+      "RestarauntImage": "https://github.com/BJThapa1/IT-315-Final-Project/blob/main/Taste%20of%20Korea.jpeg"
     },
   ],
   "Status": "OK"
